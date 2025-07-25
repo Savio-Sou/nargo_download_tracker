@@ -11,6 +11,23 @@ Automated tracking of download statistics for Noir's Nargo v1.0.0 releases from 
 - **Stable Release Focus**: Specifically tracks all v1.0.0 releases (including betas)
 - **Platform Breakdown**: Analyzes downloads by OS and architecture
 
+
+## Project Structure
+
+```
+nargo_download_tracker/
+├── scripts/                      # Python scripts
+│   ├── nargo_download_tracker.py # Main tracking script
+│   └── visualize_downloads.py   # Chart generation
+├── requirements.txt              # Python dependencies
+├── download_history.csv          # Individual asset data
+├── daily_totals.csv              # Daily summaries
+├── download_history.json         # Structured data
+├── *.png                         # Generated visualization charts
+└── .github/workflows/
+    └── track-downloads.yml       # Automation workflow
+```
+
 ## Visualizations
 
 The tracker automatically generates three types of charts:
@@ -83,49 +100,9 @@ timestamp,release_tag,asset_name,download_count,asset_size,asset_url,daily_chang
    python scripts/visualize_downloads.py
    ```
 
-## GitHub Setup
+## GitHub Action
 
-1. **Create GitHub repository** and push code
-
-2. **Set up GitHub token**:
-   - Create a fine-grained personal access token
-   - Repository permissions needed: Contents (Read/Write), Metadata (Read)
-   - Add as repository secret named `ACTION_TOKEN`
-
-3. **Automated execution**: The workflow runs daily at midnight UTC and can be triggered manually
-
-## Project Structure
-
-```
-nargo_download_tracker/
-├── scripts/                      # Python scripts
-│   ├── nargo_download_tracker.py # Main tracking script
-│   └── visualize_downloads.py   # Chart generation
-├── requirements.txt              # Python dependencies
-├── download_history.csv          # Individual asset data
-├── daily_totals.csv              # Daily summaries
-├── download_history.json         # Structured data
-├── *.png                         # Generated visualization charts
-└── .github/workflows/
-    └── track-downloads.yml       # Automation workflow
-```
-
-## Data Collection Details
-
-- **Source**: GitHub Releases API for `noir-lang/noir`
-- **Scope**: All releases with tags starting with `v1.0.0`
-- **Frequency**: Daily collection with change tracking
-- **Rate Limiting**: Supports GitHub token for higher API limits
-- **Storage**: Appends to existing data (preserves history)
-
-## Visualization Features
-
-- **Platform Distribution**: Shows downloads split by Linux/macOS and ARM64/x86_64
-- **Release Trends**: Chronological view from oldest to newest releases
-- **Download Counts**: Both percentages and absolute numbers displayed
-- **Recent Focus**: Platform charts focus on 5 most recent releases for relevance
-
-## GitHub Actions Automation
+### Purpose
 
 The workflow automatically:
 1. Fetches latest download statistics
@@ -135,3 +112,14 @@ The workflow automatically:
 5. Runs daily at midnight UTC (customizable)
 
 Perfect for hands-off monitoring of Noir adoption trends!
+
+### Setup
+
+1. **Create a GitHub repository** and push code
+
+2. **Set up a GitHub token**:
+   - Create a fine-grained personal access token
+   - Repository permissions needed: Contents (Read/Write), Metadata (Read)
+   - Add as repository secret named `ACTION_TOKEN`
+
+3. **Automated execution**: The workflow will run daily at midnight UTC once set up, and can also be triggered manually
