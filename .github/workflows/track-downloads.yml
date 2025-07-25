@@ -37,5 +37,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git add *.csv *.json
         git add *.png
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update download statistics and visualizations
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update download statistics and visualizations"
         git push
