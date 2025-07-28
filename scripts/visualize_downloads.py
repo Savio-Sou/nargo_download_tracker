@@ -2,6 +2,7 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
+import matplotlib.dates as mdates
 import os
 
 def load_download_history(data_dir="."):
@@ -33,7 +34,12 @@ def create_time_series_plot(history):
     plt.title('Noir v1.0.0 Total Downloads Over Time')
     plt.xlabel('Date')
     plt.ylabel('Total Downloads')
+    
+    # Format x-axis to show only dates (no times)
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+    plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=1))
     plt.xticks(rotation=45)
+    
     plt.grid(True)
     plt.tight_layout()
     plt.savefig('downloads_timeline.png')
