@@ -3,6 +3,8 @@
 Automated tracking of download statistics for Noir's Nargo v1.0.0 releases from the official GitHub repository.
 
 ![Downloads Timeline](downloads_timeline.png)
+![Downloads by Release](downloads_by_release.png)
+![Downloads by Platform](downloads_by_platform.png)
 
 ## Features
 
