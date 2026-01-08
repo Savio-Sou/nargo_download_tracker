@@ -7,7 +7,8 @@ from typing import Dict, List, Optional
 
 class NoirDownloadTracker:
     def __init__(self, github_token: Optional[str] = None):
-        self.base_url = "https://api.github.com/repos/noir-lang/noir/releases"
+        self.repo = "noir-lang/noir"
+        self.base_url = f"https://api.github.com/repos/{self.repo}"
         self.headers = {
             "Accept": "application/vnd.github.v3+json"
         }
@@ -16,42 +17,62 @@ class NoirDownloadTracker:
         
         self.data_dir = "."
     
-    def fetch_releases(self) -> List[Dict]:
-        """Fetch releases from GitHub API (limited to first 1000 due to API constraints)"""
-        releases = []
+    def fetch_v1_tags(self) -> List[str]:
+        """Fetch all v1.0.0* tags from GitHub API"""
+        tags = []
         page = 1
-        # GitHub API only returns first 1000 results (10 pages at 100 per page)
-        max_pages = 10
         
-        while page <= max_pages:
+        while True:
             response = requests.get(
-                f"{self.base_url}?page={page}&per_page=100",
+                f"{self.base_url}/tags?page={page}&per_page=100",
                 headers=self.headers
             )
-            try:
-                response.raise_for_status()
-            except requests.HTTPError:
-                # Handle 422 error when exceeding 1000 results limit
-                if response.status_code == 422:
-                    print(f"Reached GitHub API limit at page {page}, using {len(releases)} releases fetched so far")
-                    break
-                raise
+            response.raise_for_status()
             
-            page_releases = response.json()
-            if not page_releases:
+            page_tags = response.json()
+            if not page_tags:
                 break
-                
-            releases.extend(page_releases)
+            
+            # Filter for v1.0.0* tags
+            v1_tags = [tag['name'] for tag in page_tags if tag['name'].startswith('v1.0.0')]
+            tags.extend(v1_tags)
             page += 1
             
-        return releases
+        return tags
     
-    def filter_v1_releases(self, releases: List[Dict]) -> List[Dict]:
-        """Filter only v1.0.0 releases (including betas)"""
-        return [
-            release for release in releases 
-            if release['tag_name'].startswith('v1.0.0')
-        ]
+    def fetch_release_by_tag(self, tag: str) -> Optional[Dict]:
+        """Fetch a specific release by tag name"""
+        try:
+            response = requests.get(
+                f"{self.base_url}/releases/tags/{tag}",
+                headers=self.headers
+            )
+            if response.status_code == 404:
+                # Tag exists but no release for it
+                return None
+            response.raise_for_status()
+            return response.json()
+        except requests.HTTPError as e:
+            print(f"Warning: Failed to fetch release for tag {tag}: {e}")
+            return None
+    
+    def fetch_v1_releases(self) -> List[Dict]:
+        """Fetch all v1.0.0 releases by first getting tags, then fetching each release.
+        
+        This approach circumvents GitHub's 1000 results limit on the releases list API
+        by directly fetching releases by tag name.
+        """
+        print("Fetching v1.0.0 tags...")
+        tags = self.fetch_v1_tags()
+        print(f"Found {len(tags)} v1.0.0 tags")
+        
+        releases = []
+        for tag in tags:
+            release = self.fetch_release_by_tag(tag)
+            if release:
+                releases.append(release)
+        
+        return releases
     
     def extract_download_stats(self, releases: List[Dict]) -> List[Dict]:
         """Extract download statistics from releases"""
@@ -196,11 +217,8 @@ class NoirDownloadTracker:
     
     def run(self):
         """Main execution method"""
-        print("Fetching Noir releases...")
-        releases = self.fetch_releases()
-        
-        print("Filtering v1.0.0 releases...")
-        v1_releases = self.filter_v1_releases(releases)
+        print("Fetching Noir v1.0.0 releases...")
+        v1_releases = self.fetch_v1_releases()
         
         print(f"Found {len(v1_releases)} v1.0.0 releases")
         
