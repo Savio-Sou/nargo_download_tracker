@@ -17,15 +17,21 @@ class NoirDownloadTracker:
         self.data_dir = "."
     
     def fetch_releases(self) -> List[Dict]:
-        """Fetch all releases from GitHub API"""
+        """Fetch releases from GitHub API (limited to first 1000 due to API constraints)"""
         releases = []
         page = 1
+        # GitHub API only returns first 1000 results (10 pages at 100 per page)
+        max_pages = 10
         
-        while True:
+        while page <= max_pages:
             response = requests.get(
                 f"{self.base_url}?page={page}&per_page=100",
                 headers=self.headers
             )
+            # Handle 422 error when exceeding 1000 results limit
+            if response.status_code == 422:
+                print(f"Reached GitHub API limit at page {page}, using {len(releases)} releases fetched so far")
+                break
             response.raise_for_status()
             
             page_releases = response.json()
