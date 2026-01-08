@@ -4,6 +4,39 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import matplotlib.dates as mdates
 import os
+import re
+
+def parse_semver(version):
+    """Parse a semver version string and return a tuple for sorting.
+    
+    Handles versions like 'v1.0.0-beta.9' and returns a tuple that allows
+    proper semver sorting (e.g., beta.2 < beta.10).
+    """
+    # Remove leading 'v' if present
+    version = version.lstrip('v')
+    
+    # Pattern to match semver: major.minor.patch[-prerelease[.number]]
+    pattern = r'^(\d+)\.(\d+)\.(\d+)(?:-([a-zA-Z0-9-]+)(?:\.(\d+))?)?$'
+    match = re.match(pattern, version)
+    
+    if match:
+        major = int(match.group(1))
+        minor = int(match.group(2))
+        patch = int(match.group(3))
+        prerelease_type = match.group(4) or ''
+        prerelease_num = int(match.group(5)) if match.group(5) else 0
+        
+        # Releases without prerelease tags should sort after prereleases
+        # e.g., 1.0.0 > 1.0.0-beta.9
+        if prerelease_type:
+            prerelease_priority = 0  # Prerelease versions
+        else:
+            prerelease_priority = 1  # Stable releases
+        
+        return (major, minor, patch, prerelease_priority, prerelease_type, prerelease_num)
+    
+    # Fallback: unparsable versions sort at the very end
+    return (float('inf'), 0, 0, 0, version, 0)
 
 def load_download_history(data_dir="."):
     """Load download history from JSON file"""
@@ -120,8 +153,8 @@ def create_release_breakdown(history):
     for release_tag, release_data in latest_data['releases'].items():
         release_groups[release_tag] = release_data['total_downloads']
     
-    # Sort releases by version (oldest to newest)
-    sorted_releases = sorted(release_groups.items(), key=lambda x: x[0])
+    # Sort releases by semver (oldest to newest)
+    sorted_releases = sorted(release_groups.items(), key=lambda x: parse_semver(x[0]))
     releases = [item[0] for item in sorted_releases]
     downloads = [item[1] for item in sorted_releases]
     
