@@ -727542,5 +727542,110 @@
         ]
       }
     }
+  },
+  "2026-10-06": {
+    "total_downloads": 2239,
+    "releases": {
+      "v1.0.0-rc.3": {
+        "total_downloads": 1186,
+        "assets": [
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 34,
+            "asset_size": 28160986,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 6
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 37,
+            "asset_size": 31425747,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 4
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 0,
+            "asset_size": 29756000,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1114,
+            "asset_size": 33344268,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 83
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 33083910,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-rc.2": {
+        "total_downloads": 1053,
+        "assets": [
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 211,
+            "asset_size": 28150538,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 10
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 62,
+            "asset_size": 31382947,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 3
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 5,
+            "asset_size": 29725229,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 770,
+            "asset_size": 33340971,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 39
+          },
+          {
+            "timestamp": "2026-10-06T03:49:50.171361",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 5,
+            "asset_size": 33097393,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 1
+          }
+        ]
+      }
+    }
   }
 }

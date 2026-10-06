@@ -75980,3 +75980,13 @@ timestamp,release_tag,asset_name,download_count,asset_size,asset_url
 2026-10-05T03:00:45.961484,v1.0.0-beta.0,nargo-x86_64-apple-darwin.tar.gz,30,10370848,https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-x86_64-apple-darwin.tar.gz,0
 2026-10-05T03:00:45.961484,v1.0.0-beta.0,nargo-x86_64-unknown-linux-gnu.tar.gz,1965,12273064,https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-x86_64-unknown-linux-gnu.tar.gz,0
 2026-10-05T03:00:45.961484,v1.0.0-beta.0,nargo-x86_64-unknown-linux-musl.tar.gz,5,12213934,https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-x86_64-unknown-linux-musl.tar.gz,0
+2026-10-06T03:49:50.171361,v1.0.0-rc.3,noir-aarch64-apple-darwin.tar.gz,34,28160986,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-aarch64-apple-darwin.tar.gz,6
+2026-10-06T03:49:50.171361,v1.0.0-rc.3,noir-aarch64-unknown-linux-gnu.tar.gz,37,31425747,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-aarch64-unknown-linux-gnu.tar.gz,4
+2026-10-06T03:49:50.171361,v1.0.0-rc.3,noir-x86_64-apple-darwin.tar.gz,0,29756000,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-apple-darwin.tar.gz,0
+2026-10-06T03:49:50.171361,v1.0.0-rc.3,noir-x86_64-unknown-linux-gnu.tar.gz,1114,33344268,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-unknown-linux-gnu.tar.gz,83
+2026-10-06T03:49:50.171361,v1.0.0-rc.3,noir-x86_64-unknown-linux-musl.tar.gz,1,33083910,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-unknown-linux-musl.tar.gz,0
+2026-10-06T03:49:50.171361,v1.0.0-rc.2,noir-aarch64-apple-darwin.tar.gz,211,28150538,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-aarch64-apple-darwin.tar.gz,10
+2026-10-06T03:49:50.171361,v1.0.0-rc.2,noir-aarch64-unknown-linux-gnu.tar.gz,62,31382947,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-aarch64-unknown-linux-gnu.tar.gz,3
+2026-10-06T03:49:50.171361,v1.0.0-rc.2,noir-x86_64-apple-darwin.tar.gz,5,29725229,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-apple-darwin.tar.gz,0
+2026-10-06T03:49:50.171361,v1.0.0-rc.2,noir-x86_64-unknown-linux-gnu.tar.gz,770,33340971,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-unknown-linux-gnu.tar.gz,39
+2026-10-06T03:49:50.171361,v1.0.0-rc.2,noir-x86_64-unknown-linux-musl.tar.gz,5,33097393,https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-unknown-linux-musl.tar.gz,1
