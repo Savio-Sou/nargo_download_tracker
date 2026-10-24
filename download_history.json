@@ -768932,5 +768932,2817 @@
         ]
       }
     }
+  },
+  "2026-10-24": {
+    "total_downloads": 372987,
+    "releases": {
+      "v1.0.0-rc.6": {
+        "total_downloads": 46,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.6",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 4,
+            "asset_size": 28296231,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.6/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.6",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 2,
+            "asset_size": 31542753,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.6/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.6",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 1,
+            "asset_size": 29901240,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.6/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.6",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 38,
+            "asset_size": 33497429,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.6/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 6
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.6",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 33248347,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.6/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 1
+          }
+        ]
+      },
+      "v1.0.0-rc.5": {
+        "total_downloads": 577,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.5",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 58,
+            "asset_size": 28249796,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.5/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 9
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.5",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 16,
+            "asset_size": 31503040,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.5/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 3
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.5",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 2,
+            "asset_size": 29848094,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.5/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.5",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 499,
+            "asset_size": 33464158,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.5/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 104
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.5",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 33212813,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.5/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-rc.4": {
+        "total_downloads": 288,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.4",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 31,
+            "asset_size": 28213966,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.4/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.4",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 8,
+            "asset_size": 31513609,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.4/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.4",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 1,
+            "asset_size": 29815773,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.4/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.4",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 246,
+            "asset_size": 33433897,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.4/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 14
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.4",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 33209342,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.4/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-rc.3": {
+        "total_downloads": 8801,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 186,
+            "asset_size": 28160986,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 11
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 98,
+            "asset_size": 31425747,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 3
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 6,
+            "asset_size": 29756000,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 8509,
+            "asset_size": 33344268,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 1279
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.3",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 33083910,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.3/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-rc.2": {
+        "total_downloads": 1659,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 295,
+            "asset_size": 28150538,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 105,
+            "asset_size": 31382947,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 6,
+            "asset_size": 29725229,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1228,
+            "asset_size": 33340971,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 3
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.2",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 25,
+            "asset_size": 33097393,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.2/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 1
+          }
+        ]
+      },
+      "v1.0.0-rc.1": {
+        "total_downloads": 2837,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.1",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 110,
+            "asset_size": 28015463,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.1/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.1",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 29,
+            "asset_size": 31314298,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.1/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.1",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 3,
+            "asset_size": 29629887,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.1/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.1",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 2691,
+            "asset_size": 33261821,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.1/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 34
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.1",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 4,
+            "asset_size": 33054355,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.1/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-rc.0": {
+        "total_downloads": 421,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 2,
+            "asset_size": 16187085,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 2,
+            "asset_size": 17890455,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 1,
+            "asset_size": 17137560,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 34,
+            "asset_size": 19022054,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 18875233,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 81,
+            "asset_size": 23860199,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 2,
+            "asset_size": 26619606,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 1,
+            "asset_size": 25241456,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 294,
+            "asset_size": 28240317,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-rc.0",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 28029608,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-rc.0/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.26": {
+        "total_downloads": 18533,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 84,
+            "asset_size": 16041552,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 85,
+            "asset_size": 17666159,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 19,
+            "asset_size": 16948708,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1603,
+            "asset_size": 18773428,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 11
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 16,
+            "asset_size": 18625425,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 549,
+            "asset_size": 23742900,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 17
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 386,
+            "asset_size": 26400124,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 21
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 10,
+            "asset_size": 25046653,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 15759,
+            "asset_size": 27998006,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 180
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.26",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 22,
+            "asset_size": 27787851,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.26/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.25": {
+        "total_downloads": 7503,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 72,
+            "asset_size": 16020158,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 41,
+            "asset_size": 17654731,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 5,
+            "asset_size": 16920690,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1077,
+            "asset_size": 18764419,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 54
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 4,
+            "asset_size": 18600864,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 250,
+            "asset_size": 23725819,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 4
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 204,
+            "asset_size": 26379666,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 2,
+            "asset_size": 25016003,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 5847,
+            "asset_size": 27988343,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 247
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.25",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 27761010,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.25/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.24": {
+        "total_downloads": 655,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 10,
+            "asset_size": 15996414,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 6,
+            "asset_size": 17673866,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 3,
+            "asset_size": 16923082,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 118,
+            "asset_size": 18739168,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 18601565,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 37,
+            "asset_size": 23684520,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 13,
+            "asset_size": 26397124,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 2,
+            "asset_size": 25016148,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 460,
+            "asset_size": 27954744,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.24",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 4,
+            "asset_size": 27757862,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.24/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.23": {
+        "total_downloads": 151,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 4,
+            "asset_size": 15901540,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 4,
+            "asset_size": 17519647,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 3,
+            "asset_size": 16841883,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 32,
+            "asset_size": 18662355,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 3,
+            "asset_size": 18509682,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 10,
+            "asset_size": 23553726,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 2,
+            "asset_size": 26223583,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 2,
+            "asset_size": 24902995,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 89,
+            "asset_size": 27847746,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.23",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 27642412,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.23/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.22": {
+        "total_downloads": 61421,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 136,
+            "asset_size": 15705228,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 45,
+            "asset_size": 17342068,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 4
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 10,
+            "asset_size": 16655741,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 23125,
+            "asset_size": 18440829,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 1872
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 15,
+            "asset_size": 18321507,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 19155,
+            "asset_size": 23372682,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 106,
+            "asset_size": 26020053,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 36,
+            "asset_size": 24716512,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 18790,
+            "asset_size": 27606953,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 200
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.22",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 3,
+            "asset_size": 27424782,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.22/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.21": {
+        "total_downloads": 14227,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 41,
+            "asset_size": 15433669,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 15,
+            "asset_size": 17069468,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 4,
+            "asset_size": 16352540,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 609,
+            "asset_size": 18105848,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 11
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 3,
+            "asset_size": 17974429,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 8408,
+            "asset_size": 22791777,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 82,
+            "asset_size": 25411202,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 9,
+            "asset_size": 24062562,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 5054,
+            "asset_size": 26942398,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 3
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.21",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 26742767,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.21/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.20": {
+        "total_downloads": 25167,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 146,
+            "asset_size": 15258103,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 82,
+            "asset_size": 16851197,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 13,
+            "asset_size": 16158722,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 6065,
+            "asset_size": 17940472,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 8,
+            "asset_size": 17808381,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 12802,
+            "asset_size": 22599543,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 95,
+            "asset_size": 25167529,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 10,
+            "asset_size": 23853467,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 5945,
+            "asset_size": 26732894,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.20",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 26534684,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.20/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.19": {
+        "total_downloads": 18171,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 362,
+            "asset_size": 14851295,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 215,
+            "asset_size": 16404574,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 21,
+            "asset_size": 15612056,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 3303,
+            "asset_size": 17374052,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 20,
+            "asset_size": 17220820,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 6000,
+            "asset_size": 22207734,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 5
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 164,
+            "asset_size": 24726989,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 20,
+            "asset_size": 23275786,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 8065,
+            "asset_size": 26142637,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 7
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.19",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 25926597,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.19/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.18": {
+        "total_downloads": 14844,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 71,
+            "asset_size": 14742425,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 63,
+            "asset_size": 16254230,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 8,
+            "asset_size": 15567550,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 2341,
+            "asset_size": 17272209,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 3
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 10,
+            "asset_size": 17134113,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 807,
+            "asset_size": 20072824,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 126,
+            "asset_size": 22212607,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 47,
+            "asset_size": 21167913,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 11370,
+            "asset_size": 23548935,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 18
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.18",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 23406467,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.18/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.17": {
+        "total_downloads": 3487,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 20,
+            "asset_size": 14748238,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 7,
+            "asset_size": 16227207,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 3,
+            "asset_size": 15534218,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 865,
+            "asset_size": 17235801,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 17113373,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 421,
+            "asset_size": 20077814,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 140,
+            "asset_size": 22177322,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 10,
+            "asset_size": 21134375,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 2018,
+            "asset_size": 23516226,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 4
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.17",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 23384401,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.17/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.16": {
+        "total_downloads": 38390,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 130,
+            "asset_size": 14849483,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 14,
+            "asset_size": 16307903,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 3,
+            "asset_size": 15598798,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1020,
+            "asset_size": 17317099,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 17200218,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 253,
+            "asset_size": 20388181,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 29,
+            "asset_size": 22490824,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 12,
+            "asset_size": 21407233,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 36928,
+            "asset_size": 23816208,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.16",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 23694123,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.16/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.15": {
+        "total_downloads": 10863,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 57,
+            "asset_size": 14293832,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 17,
+            "asset_size": 15766742,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 21,
+            "asset_size": 15047011,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1085,
+            "asset_size": 16720862,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 3
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 9,
+            "asset_size": 16608610,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 475,
+            "asset_size": 19834706,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 38,
+            "asset_size": 21940262,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 26,
+            "asset_size": 20858390,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 9135,
+            "asset_size": 23246496,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 7
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.15",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 23132128,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.15/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.14": {
+        "total_downloads": 51439,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 50,
+            "asset_size": 13810853,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 19,
+            "asset_size": 15135815,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 9,
+            "asset_size": 14569487,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 3900,
+            "asset_size": 16088701,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 6,
+            "asset_size": 15976020,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 184,
+            "asset_size": 19353852,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 40,
+            "asset_size": 21311146,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 12,
+            "asset_size": 20394557,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 47217,
+            "asset_size": 22617750,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.14",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 22498646,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.14/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.13": {
+        "total_downloads": 4228,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 38,
+            "asset_size": 13907494,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 16,
+            "asset_size": 14671319,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1540,
+            "asset_size": 16246019,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 16121506,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 571,
+            "asset_size": 19609269,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 44,
+            "asset_size": 20670302,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 2016,
+            "asset_size": 22978743,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.13",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 22840229,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.13/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.12": {
+        "total_downloads": 2553,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 29,
+            "asset_size": 13902995,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 4,
+            "asset_size": 15256784,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 6,
+            "asset_size": 14702330,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1103,
+            "asset_size": 16278986,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 16164143,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 268,
+            "asset_size": 19606073,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 14,
+            "asset_size": 21609876,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 13,
+            "asset_size": 20686015,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1113,
+            "asset_size": 23001917,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.12",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 22882828,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.12/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.11": {
+        "total_downloads": 34542,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 234,
+            "asset_size": 14273927,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 1646,
+            "asset_size": 15678765,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 11,
+            "asset_size": 15098160,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 2696,
+            "asset_size": 16715272,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 4
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 2,
+            "asset_size": 16595186,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 1518,
+            "asset_size": 20192673,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 1131,
+            "asset_size": 22287431,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 18,
+            "asset_size": 21315352,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 27286,
+            "asset_size": 23681493,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 292
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.11",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 23559669,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.11/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.10": {
+        "total_downloads": 390,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 5,
+            "asset_size": 14258465,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 11,
+            "asset_size": 15693773,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 0,
+            "asset_size": 15081717,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 163,
+            "asset_size": 16731507,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 16609593,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 40,
+            "asset_size": 20169323,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 9,
+            "asset_size": 22281838,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 3,
+            "asset_size": 21292750,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 159,
+            "asset_size": 23698885,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.10",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 23574983,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.10/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.9": {
+        "total_downloads": 12833,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 99,
+            "asset_size": 14259625,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 11
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 10,
+            "asset_size": 15657350,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 11,
+            "asset_size": 15099177,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 4760,
+            "asset_size": 16690769,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 59
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 7,
+            "asset_size": 16568735,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 566,
+            "asset_size": 20164497,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 152,
+            "asset_size": 22228499,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 42,
+            "asset_size": 21293008,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 7185,
+            "asset_size": 23646667,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.9",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 23519993,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.9/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.8": {
+        "total_downloads": 2068,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 26,
+            "asset_size": 14210677,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 20,
+            "asset_size": 15626153,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 7,
+            "asset_size": 15016659,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 649,
+            "asset_size": 16653338,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 4,
+            "asset_size": 16542666,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 242,
+            "asset_size": 20116157,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 36,
+            "asset_size": 22200894,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 73,
+            "asset_size": 21217018,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1011,
+            "asset_size": 23612895,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.8",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 23488668,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.8/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.7": {
+        "total_downloads": 1339,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 23,
+            "asset_size": 14106052,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 7,
+            "asset_size": 15527177,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 2,
+            "asset_size": 14904710,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 626,
+            "asset_size": 16559680,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 16443974,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 182,
+            "asset_size": 19969532,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 14,
+            "asset_size": 22071627,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 28,
+            "asset_size": 21066396,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 456,
+            "asset_size": 23486880,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.7",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 23354746,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.7/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.6": {
+        "total_downloads": 10275,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 95,
+            "asset_size": 13055201,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 32,
+            "asset_size": 14368393,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 11,
+            "asset_size": 13758402,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 7269,
+            "asset_size": 15263934,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 15
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 6,
+            "asset_size": 15169485,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 872,
+            "asset_size": 17998939,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 98,
+            "asset_size": 19887214,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 39,
+            "asset_size": 18937356,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1853,
+            "asset_size": 21129397,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.6",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 21042811,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.6/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.5": {
+        "total_downloads": 2138,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 19,
+            "asset_size": 13040930,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 54,
+            "asset_size": 14349625,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 0,
+            "asset_size": 13752624,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 568,
+            "asset_size": 15266578,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 4,
+            "asset_size": 15166037,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 290,
+            "asset_size": 17986754,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 126,
+            "asset_size": 19868368,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 12,
+            "asset_size": 18929332,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1065,
+            "asset_size": 21131330,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.5",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 21039751,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.5/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.4": {
+        "total_downloads": 2632,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 20,
+            "asset_size": 12315223,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 4,
+            "asset_size": 13536507,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 2,
+            "asset_size": 13016279,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 488,
+            "asset_size": 14438426,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 4,
+            "asset_size": 14339640,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 117,
+            "asset_size": 17301146,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 80,
+            "asset_size": 18445123,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 3,
+            "asset_size": 18245820,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 1914,
+            "asset_size": 20345583,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.4",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 0,
+            "asset_size": 20259420,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.4/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.3": {
+        "total_downloads": 7973,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 159,
+            "asset_size": 11701900,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 40,
+            "asset_size": 14460280,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 15,
+            "asset_size": 12228025,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 2666,
+            "asset_size": 14980912,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 18,
+            "asset_size": 15172519,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "noir-aarch64-apple-darwin.tar.gz",
+            "download_count": 1063,
+            "asset_size": 14728825,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/noir-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "noir-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 166,
+            "asset_size": 19634081,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/noir-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "noir-x86_64-apple-darwin.tar.gz",
+            "download_count": 92,
+            "asset_size": 15375531,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/noir-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "noir-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 3753,
+            "asset_size": 20291857,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/noir-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 5
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.3",
+            "asset_name": "noir-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 1,
+            "asset_size": 20615393,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.3/noir-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.2": {
+        "total_downloads": 5363,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.2",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 903,
+            "asset_size": 11510467,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.2/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.2",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 70,
+            "asset_size": 13713780,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.2/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.2",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 37,
+            "asset_size": 11987458,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.2/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.2",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 4341,
+            "asset_size": 14169303,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.2/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 2
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.2",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 12,
+            "asset_size": 14360462,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.2/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.1": {
+        "total_downloads": 4624,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.1",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 815,
+            "asset_size": 9864136,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.1/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.1",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 72,
+            "asset_size": 11743519,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.1/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.1",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 36,
+            "asset_size": 10245834,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.1/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.1",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 3689,
+            "asset_size": 12074231,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.1/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 7
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.1",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 12,
+            "asset_size": 12070536,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.1/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      },
+      "v1.0.0-beta.0": {
+        "total_downloads": 2549,
+        "assets": [
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.0",
+            "asset_name": "nargo-aarch64-apple-darwin.tar.gz",
+            "download_count": 484,
+            "asset_size": 9985036,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-aarch64-apple-darwin.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.0",
+            "asset_name": "nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "download_count": 21,
+            "asset_size": 11937837,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-aarch64-unknown-linux-gnu.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.0",
+            "asset_name": "nargo-x86_64-apple-darwin.tar.gz",
+            "download_count": 30,
+            "asset_size": 10370848,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-x86_64-apple-darwin.tar.gz",
+            "daily_change": 0
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.0",
+            "asset_name": "nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "download_count": 2009,
+            "asset_size": 12273064,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-x86_64-unknown-linux-gnu.tar.gz",
+            "daily_change": 1
+          },
+          {
+            "timestamp": "2026-10-24T02:29:59.990472",
+            "release_tag": "v1.0.0-beta.0",
+            "asset_name": "nargo-x86_64-unknown-linux-musl.tar.gz",
+            "download_count": 5,
+            "asset_size": 12213934,
+            "asset_url": "https://github.com/noir-lang/noir/releases/download/v1.0.0-beta.0/nargo-x86_64-unknown-linux-musl.tar.gz",
+            "daily_change": 0
+          }
+        ]
+      }
+    }
   }
 }
